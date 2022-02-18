@@ -6,10 +6,10 @@
  Photography: withpminberlin.com
 
 - 🛩 upcoming projects:
--reverse engeneer and analyse the data analytics job market in Berlin 
--Portfolio for Photography projects
+- reverse engeneer and analyse the data analytics job market in Berlin 
+- Portfolio for Photography projects
 - "Give me Feedback" - Project to help improve your resume.
--Portfolio project website for data analytics projects
+- Portfolio project website for data analytics projects
 
 <!---
 pminberlin/pminberlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
